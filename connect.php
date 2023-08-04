@@ -14,5 +14,6 @@ if (!$conn){
 }
 else{
     echo ("TRYING01");
+    echo("hello");
 }
 ?>
