@@ -13,6 +13,9 @@ if (!$conn){
     die("Sorry we failed to connect: ". mysqli_connect_error());
 }
 else{
+<<<<<<< HEAD
  
+=======
+>>>>>>> parent of 588c40c (Update connect.php)
 }
 ?>
